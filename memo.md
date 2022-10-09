@@ -1,4 +1,14 @@
-# command
+# 初期化コマンド
+
+- `git init`
+
+# よく使うコマンド
+
+- `git status`
+- `git add .`
+- `git commit -m "some comment"`
+
+# 説明
 
 - git
 
@@ -6,7 +16,7 @@
 
 - 初期化、有効化される
 
-  - git init
+  - `git init`
 
 - 場所
 
