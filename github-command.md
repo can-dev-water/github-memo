@@ -7,7 +7,7 @@
 - リモートの追加
   - `git remote add origin <copy url from github>`
 
-# 接続手順
+# 接続手順(0 からのスタート)
 
 ## ローカル(自分のパソコン、git)の手順
 
